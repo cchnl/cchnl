@@ -1,7 +1,6 @@
 # Site settings
 title: City Council Home
 description: Aloha and E Komo Mai! Welcome to the Honolulu City Council website.
-url: "https://cchnl.github.io/cchnl"
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
