@@ -1,13 +1,13 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: City Council Home
+description: Aloha and E Komo Mai! Welcome to the Honolulu City Council website.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: The City & County of Honolulu
 user_description: The City Council is the lawmaking body of the City and County of Honolulu. The Council is responsible for serving and advancing the general welfare, health, happiness, and safety of the people through exercising its legislative power.
-user_title: Software Developer
+user_title: Hawaii
 email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
