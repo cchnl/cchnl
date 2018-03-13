@@ -131,7 +131,7 @@ sub,sup
 #cchnl
 {
   background-image: url("/assets/img/honolulu0hale.jpg");
-  background:#1a222c;
+  /*background:#1a222c;*/
   display:flex;
   vertical-align:bottom;
   width:100%;
