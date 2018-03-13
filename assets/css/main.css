@@ -158,6 +158,9 @@ sub,sup
   margin:0 auto;
   -webkit-transform:translate(-50%,-50%);
   transform:translate(-50%,-50%)
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed
 }
 
 .header .site-title
