@@ -131,7 +131,7 @@ sub,sup
 #cchnl
 {
   background-color:#488548;
-  background-image:url("{{ "/assets/img/mountains.jpg" | prepend: site.baseurl }}");
+  background-image:url("https://www.paesionline.it/stati_uniti_d_america/cucina-e-vini-honolulu");
   /*background:#488548;*/
   display:flex;
   vertical-align:bottom;
