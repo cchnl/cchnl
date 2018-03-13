@@ -131,7 +131,7 @@ sub,sup
 #cchnl
 {
   background-color:#488548;
-  background-image:url("/assets/img/honolulu-hale.jpg");
+  background-image:url("{{ "/assets/img/mountains.jpg" | prepend: site.baseurl }}");
   /*background:#488548;*/
   display:flex;
   vertical-align:bottom;
