@@ -310,6 +310,13 @@ sub,sup
   margin:10px
 }
 
+.tech img
+{
+  max-width:100%;
+  height:auto;
+  border-radius:5px
+}
+
 .user
 {
   text-align:center;
